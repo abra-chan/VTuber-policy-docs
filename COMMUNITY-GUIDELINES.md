@@ -3,7 +3,7 @@
 *Version: 1.1*  
 *Repository: https://github.com/abra-chan/VTuber-policy-docs*
 
-### Welcome to the Das Hünerhaus 🐔
+### Welcome to the Das Hühnerhaus 🐔
 This is a **weird, positive, high-signal** community. We talk about VTubing, gaming, magic, life, memes, and whatever else comes up — without turning every stream into a culture war battlefield or an identity parade.
 
 **Core Philosophy**

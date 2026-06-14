@@ -1,8 +1,8 @@
-# Abra Chan - Das Hünerhaus Community Guidelines
+# Abra Chan - Das Hühnerhaus Community Guidelines
 
 **Repository:** Public transparency for my streaming community.
 
-This repo holds the official rules for 🐔 **Das Hünerhaus** 🏡 — my Twitch, Kick, YouTube, and Discord community.
+This repo holds the official rules for 🐔 **Das Hühnerhaus** 🏡 — my Twitch, Kick, YouTube, and Discord community.
 
 ### Why Public + Git?
 - Full transparency
