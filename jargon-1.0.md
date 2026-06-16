@@ -9,7 +9,7 @@ If you hear something you don't understand, look it up here. If it's missing and
 ---
 
 **ABRASAX**  
-1. prop. n. The sacred word of the Hünerhaus. Meditate upon it for seven minutes after completing the Sorting Quiz.  
+1. prop. n. The sacred word of the Hünerhaus. Meditate upon it for seven minutes after completing the initiation quiz.  
 2. Meme-magic incantation. Used when something particularly cursed or blessed happens on stream.
 
 **BASED DEPARTMENT**  
@@ -20,7 +20,7 @@ If you hear something you don't understand, look it up here. If it's missing and
 **CHOOK**  
 1. n. A term of endearment for a member of the community. "Alright you beautiful chooks, let's get weird."  
 2. n. Any loyal viewer or participant in the Hünerhaus, regardless of species.  
-3. From Australian English "chook" (chicken). See also: *Hühner*, *flahk*.
+3. From Australian English "chook" (chicken). See also: *Hühner*, *f'lahk*.
 
 **ETERNAL-SPRING**  
 1. n. The private topical channel for Faith, Philosophy, Cults & Mystery Schools.  
@@ -31,9 +31,14 @@ If you hear something you don't understand, look it up here. If it's missing and
 2. From *f'lah* in *The Elder Scrolls III: Morrowind*, meaning "brother" or "bro".  
    Used ironically or affectionately among night owls and chaos enjoyers.
 
+**GREAT HOUSE**  
+1. n. One of the seven noble chicken houses: Silkie, Leghorn, Orpington, Easter, Giant, Comet, Rock.
+2. Inspired by the Great Houses of Morrowind. Each has its own personality, private channel, and role color. Members are assigned to a Great House following their initiation.
+
 **HAUS**  
 1. n. House (German).  
-2. In context: a place of belonging, a roost, or a sorting house.
+2. In context: a place of belonging, a roost, or a Great House.
+   "I just got sorted into House Barred-Rock, send help!"  
 
 **HÜHNER**  
 1. n. Chicken (German). The base species of our digital coop.  
@@ -50,9 +55,9 @@ If you hear something you don't understand, look it up here. If it's missing and
 3. From Japanese "seiso" (clean/pure). Used both seriously and ironically in VTuber/streamer culture.  
    See also: *PG-13*, *no NSFW*.
 
-**SORTING HOUSE**  
-1. n. One of the seven chicken breeds/houses new members are assigned to after taking the initiation quiz.  
-2. v. The act of being sorted. "I just got sorted into Barred-Rocks, send help."
+**SORTING**  
+1. v. The act of taking the initiation quiz and being assigned to a Great House.  
+   "Yay! I just got sorted into House Silkie! Silkie HYPE~"
 
 ---
 
