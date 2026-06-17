@@ -24,12 +24,17 @@ We want a **weird, positive, high-signal** space where:
 ### Viewing the Rules
 - Main document: **[COMMUNITY-GUIDELINES.md](COMMUNITY-GUIDELINES.md)**
 
-### How to Contribute
-1. Open an Issue with your suggestion
-2. (Optional) Submit a Pull Request with changes
-3. Discuss in the `#community-feedback` channel on Discord
+### Contributing
 
-I (Abra) have final say on changes, but I actually read and consider all feedback.
+Pull requests are welcome, especially from members of the Das Hünerhaus community.
+
+**Priority will be given to:**
+- Active community members (Twitch/Discord regulars)
+- Tier 2 subscribers
+
+Please include your **Twitch username** and/or **Discord username** in the PR description so I know you're part of the f'lahk.
+
+Random drive-by PRs from people outside the community may be closed without review. This is a small, high-signal project tied to our community — contributions from actual Chooks are strongly preferred.
 
 ### Related Links
 - Stream: [Twitch](https://twitch.tv/abra_chan)
