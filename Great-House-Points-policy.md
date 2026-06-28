@@ -1,59 +1,84 @@
 # Great House Points System
 
 ## Disclaimer
-This system isn't fully implemented yet. More bot coding is needed to establish pecking order.
+This system is partially active. Full automation (via bot) is in development to accurately track the **Pecking Order**.
 
 ## Objective
+The Great House Points system aims to:
+1. Strengthen community bonds through cooperation and healthy competition.
+2. Recognize and reward consistent, positive participation.
+3. Discourage negative behavior through collective house accountability.
 
-The point of this system is
+## Leaderboard
+- A dedicated **#pecking-order** channel will display current standings.
+- Leaderboard updates weekly.
+- The winning Great House is announced every **Sunday**.
 
-1. To strengthen community bonds through cooperation and a healthy dose of competition.
-2. To incentivize participation through recognition of effort.
-3. To dis-incentivize bad behavior though group dynamics.
+### Point Values
 
-## Leaderboards Discord channel
+| Action                                      | Great House Points | Notes |
+|---------------------------------------------|--------------------|-------|
+| Stream Participation (Daily Snacrifice)     | +10                | Once per platform per stream after `!register` |
+| Successful Referral (after Harrowing)       | +15                | Awarded to referrer’s house |
+| Winning an Official Event / Contest         | +25                | Varies by event scale |
+| Clip of the Week                            | +20                | Judged by engagement |
+| High-Quality Fan Art (#abraLustrate)        | +15                | Hand-drawn or high effort |
+| Charity Donation (min $1)                   | +10                | Once per charity event |
+| Moderation Action Received                  | -10 to -30         | Depends on severity |
+| Cheating / Impersonation                    | -50                | + possible removal from house |
 
-There shall be a channel where the points are updated regularly by robots or mods
-Winner will be declared weekly on Sunday
+---
 
-### Earn Great House Points by
+### Earning Great House Points
 
-1. Stream participation/lurking
-  - Limit one per member per stream
-  - Once per platform, in chat: !register [your-discord-username]
-  - Then use the Daily Snacrifice redeem for **169 Stardust** (channel points)
-2. Referring a friend to Das Hühnerhaus (Discord server)
-  - Using a personal invite link
-  - Using a Great House specific link
-    - A non-expiring invite link shall be pinned in your Great House chat channel
-    - Please [report dead links](https://github.com/abra-chan/VTuber-policy-docs/issues/new/choose)
-  - Points will be awarded after they complete their Harrowing (to prevent cheating)
-    - They do not have to end up in your house for you to earn House Points
-3. Winning any **Das Hühnerhaus** event, contest, or game played on Abra's stream
-4. Submitting the Clip of the Week (determined by metrics, any platform)
-5. Hand-drawn fanart using #abralustrate on X/TWT
-6. Minimum charity donation (or $1, which ever is more) during charity events
-  - Limit one per member per stream
+**1. Stream Participation**
+- Limited to **one registration per member per streaming platform**.
+- In chat, type: `!register [your-discord-username]` **once per platform** to link your Discord username to your account on that platform (Twitch, YouTube, Kick, etc.).
+- Then redeem the **Daily Snacrifice** (169 Stardust) on any platform.
+- Your verified email from the Google Form helps us confirm identity and prevent abuse.
 
-### Lose Great House Points by
+**2. Referrals**
+- Invite new members using either a **personal invite link** or a **Great House-specific link** (pinned in your house channel).
+- Points are awarded only after the new member completes their **Harrowing**.
+- The referring member’s house receives points regardless of which house the newcomer joins.
 
-1. Getting moderated (non-warnings)
-2. Getting caught cheating or impersonating another member
-  - Please [report cheating](https://github.com/abra-chan/VTuber-policy-docs/issues/new/choose)
+**3. Winning Official Events**
+- Any contest, game, or event hosted on Abra’s stream.
 
-### Vote Kick
+**4. Clip of the Week**
+- Submitted clips judged by engagement metrics (any platform).
 
-- After losing points, **Great House** members can vote to remove the offending member
-- If the vote passes, the **Great House** will regain half the House Points lost
-- Members who are kicked from their **Great House** will lose all roles
-- They will need to re-read the rules and accept to regain Cheep status
-- They may then re-take their **Harrowing**
-- The kicked member may not rejoin the **Great House* that most recently kicked them, but may rejoin later, up to three times
+**5. Fan Art**
+- Original hand-drawn or high-effort art posted with `#abraLustrate` on X/Twitter.
 
-### Best Great House gets...
+**6. Charity Events**
+- Minimum donation of $1 (or platform minimum, whichever is higher) during official charity streams.
+- Limited to one per member per event.
 
-1. Bragging rights, duh!~
-2. Recognition on Abra's weekly **Stream Schedule**
-3. A special **Stream Overlay** for the week
-4. Free premium ASMR triggers!
-  - Limit one per member per stream
+---
+
+### Losing Great House Points
+
+1. Receiving moderation actions (timeouts, bans, etc. — warnings do not count).
+2. Cheating, ban evasion, or impersonation.
+
+**Report issues** → [GitHub Issue Template](https://github.com/abra-chan/VTuber-policy-docs/issues/new/choose)
+
+---
+
+### Vote to Kick (House Self-Moderation)
+
+- After significant point loss, members of a Great House may call for a vote to remove the offending member from the house.
+- If the vote passes, the house recovers **half** the points lost due to that member.
+- Kicked members lose all house roles and return to **Cheep** status.
+- They must re-accept the rules and may retake the **Harrowing**.
+- A kicked member may not rejoin the same house that removed them for a set period (currently 30 days), with a maximum of three lifetime re-entries per house.
+
+---
+
+### Rewards for the Winning Great House (Weekly)
+
+1. Bragging rights across the server.
+2. Featured recognition on Abra’s weekly stream schedule.
+3. A special **house-themed stream overlay** for the following week.
+4. One free **Premium ASMR Trigger** redeem per member (limit one per stream).
