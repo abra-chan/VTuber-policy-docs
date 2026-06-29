@@ -106,8 +106,9 @@ If you hear something you don't understand, look it up here. If it's missing and
    See also: *PG-13*, *no NSFW*.
 
 **SORTING**  
-1. v. The act of taking the initiation quiz and being assigned to a Great House.  
-   "Yay! I just got sorted into House Silkie! Silkie HYPE~"
+1. v. The act of taking the **Harrowing** (the initiation quiz) and being assigned to one of the seven Great Houses.  
+2. "Yay! I just got sorted into Great House Bantam-Silkies! Silkie HYPE~"  
+3. See also: *Harrowing*, *Cheeps*, *Great House*, *Pecking Order*.
 
 **STARDUST**  
 1. n. Channel Points on Twitch. Used for redeems and community rewards.  
