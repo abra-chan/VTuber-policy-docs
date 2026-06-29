@@ -117,4 +117,4 @@ If you hear something you don't understand, look it up here. If it's missing and
 ---
 
 **How to contribute**  
-Open an issue or PR in the git repo, or suggest entries in `#community-feedback`. This file is version-controlled for maximum transparency and autism.
+Open an issue or PR in the git repo, or suggest entries in `#poules-propound`. This file is version-controlled for maximum transparency and autism.
