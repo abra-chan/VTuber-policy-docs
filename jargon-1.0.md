@@ -9,8 +9,12 @@ If you hear something you don't understand, look it up here. If it's missing and
 ---
 
 **ABRASAX**  
-1. prop. n. The sacred word of the Hünerhaus. Meditate upon it for seven minutes after completing the initiation quiz.  
-2. Meme-magic incantation. Used when something particularly cursed or blessed happens on stream.
+1. prop. n. The sacred word of Das Hünerhaus. A powerful incantation and focus for meditation. Members are instructed to meditate upon it for seven minutes after completing the Harrowing.  
+2. Ancient Gnostic term (also spelled Abraxas) for the Great Archon, ruler of 365 heavens. The Greek letters of the name sum numerically to 365, linking it to the solar year and cosmic order.  
+3. Frequently depicted on ancient magical gems with a rooster’s head (symbol of vigilance and the dawn), a human body, and serpents for legs — representing the union of opposites and hidden forces behind creation.
+4. In Hünerhaus usage: a call to transcendence, alignment, and controlled chaos. Invoked when something particularly cursed or blessed occurs on stream.
+5. Connected to the 18th-century French grimoire *The Black Pullet* (*La Poule Noire* / *La Poule aux Œufs d’Or*), which features talismanic magic and the motif of the magical hen — a thematic bridge to our poultry mysticism.
+   See also: *Harrowing*, *poule*, *coq*, *The Black Pullet*.
 
 **BASED DEPARTMENT**  
 1. n. The collective of people who are unapologetically honest and refuse to bend to social pressure.  
@@ -26,6 +30,16 @@ If you hear something you don't understand, look it up here. If it's missing and
 1. n. A term of endearment for a member of the community. "Alright you beautiful chooks, let's get weird."  
 2. n. Any loyal viewer or participant in the Hünerhaus, regardless of species.  
 3. From Australian English "chook" (chicken). See also: *Hühner*, *f'lahk*.
+
+**COQ**  
+1. n. Rooster (French).
+2. Reference to *Coq au Vin*, a classic French dish with roots in ancient Gaul. Legends also link the rooster to Julius Caesar and Gallic symbolism.
+3. Used in the main announcements channel **#coq-a-doodle**.
+
+**EN DIRECT**  
+1. adj. / adv. “Live” or “in real time” (French).
+2. Implies unfiltered authenticity, raw presence, and stream-of-consciousness energy.
+3. Name of the main subscriber voice channel: **poules-en-direct** — the place for live collabs, gaming, and real-time interaction during streams.
 
 **ETERNAL-SPRING**  
 1. n. The private topical channel for Faith, Philosophy, Cults & Mystery Schools.  
@@ -73,6 +87,17 @@ If you hear something you don't understand, look it up here. If it's missing and
 **PECKING ORDER**  
 1. n. The weekly leaderboard showing which Great House is currently dominant based on accumulated points.  
 2. "Barred-Rocks taking the top spot in the Pecking Order again — typical."
+
+**POULE**  
+1. n. Chicken (French).  
+2. Reference to the 18th-century grimoire *The Black Pullet* (*La Poule aux Œufs d’Or*), a legendary text of occult magic and hidden knowledge.  
+3. The playful root of our “Poules LIVE” subscriber area.  
+   See also: *poules*, *coq*, *Abrasax*.
+
+**POULES**  
+1. n. Hens (French).  
+2. Colloquial term for girls/women — can be playful, affectionate, or slightly pejorative depending on context.  
+3. The collective name for subscribers and active community members in the “Poules LIVE” area.
 
 **SEISO**  
 1. adj. Clean, wholesome, or family-friendly. "Keep it seiso in main chat."  
