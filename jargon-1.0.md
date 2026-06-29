@@ -84,6 +84,20 @@ If you hear something you don't understand, look it up here. If it's missing and
 2. The official fan-art tag on X/Twitter (#abraLustrate). Used when members create wholesome or high-quality art of Abra Channel.  
 3. "That piece really lustrated the stream tonight."
 
+**ORACLE, THE**  
+1. prop. n. The High Priestess of Abrasax who divines the fate of all Cheeps and Chooks alike.  
+2. Origins: A reference to *The Matrix* (itself a modern Gnostic allegory).  
+3. In practice: Abra’s custom API server (currently WIP) that serves as the technical backbone of Das Hünerhaus.  
+4. Current responsibilities include gluing Discord to streaming platform chats, extending redeem functionality, grading Harrowing results, and managing various automations.  
+5. Future capabilities (planned):  
+   - Reveal / re-veil Poules LIVE channels when the stream starts/ends  
+   - Send Go Live pings in `#dinner-bell`  
+   - Track and update the Pecking Order + Great House Points  
+   - Generate dynamic browser source overlays for OBS  
+   - Manage ASMR trigger queues  
+
+See also: *Abrasax*, *Harrowing*, *Pecking Order*, *Poules LIVE*.
+
 **PECKING ORDER**  
 1. n. The weekly leaderboard showing which Great House is currently dominant based on accumulated points.  
 2. "Barred-Rocks taking the top spot in the Pecking Order again — typical."
