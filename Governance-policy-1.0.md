@@ -1,3 +1,55 @@
+# Great House Leadership & Governance
+
+Each Great House may elect a **House Steward** to represent and serve its members.
+
+## Election Rules
+- Polls are open for **24 consecutive hours**.
+- Polling day must be announced **at least 7 days in advance**.
+- Elections may **not** be held on major holidays.
+- The candidate with the **most votes** wins.
+- A **minimum of 10 votes** is required for the election to be valid.
+
+If no candidate reaches 10 votes, the election is considered invalid and must be rerun.
+
+## Term Length
+- House Stewards serve a term of **3 months**.
+- Elections are held every **3 months**.
+- Stewards may run for re-election, but **may not serve more than two consecutive terms**.
+
+## Former Stewards
+Members who have completed their term as House Steward are granted the honorific title of **Past Steward**. This title may be displayed alongside their name (e.g. *Past Steward of House Barred-Rocks*).
+
+## Responsibilities of the House Steward
+The House Steward is expected to:
+- Serve the members of their house
+- Listen to their concerns and ideas
+- Advocate for rules and changes their house supports
+- Represent their house in the **House Stewards Council**
+
+## Powers of the House Steward
+A House Steward may:
+- Represent their house in the **House Stewards Council**
+- Propose additional house-specific rules or by-laws
+- Call a house vote on proposed changes
+
+**House Vote Rules** (same standards as elections):
+- Must be announced **at least 7 days in advance**
+- Polls remain open for **24 consecutive hours**
+- Requires a **minimum of 10 votes**
+- A proposal passes only if it receives **more Yea votes** than No + Abstain votes combined.
+
+## House Stewards Council
+
+A private channel called **The High Perch** shall exist for all seven House Stewards and Abra. This channel is used for:
+- Discussing community-wide issues
+- Coordinating events across houses
+- Voting on matters that affect multiple houses
+- Strategic planning and governance
+
+Only current House Stewards and Abra have access to **The High Perch**.
+
+---
+
 # Great House Points System
 
 ## Disclaimer

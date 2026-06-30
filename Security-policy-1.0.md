@@ -71,13 +71,13 @@ Maintain full sovereignty over the server while safely delegating moderation dut
 
 **Cheeps**
 - All of the above, plus:
-- See: `#the-compost-pile`, `#the-yard`, `#coq-a-doodle`, `#front-lawn-frisbee`, `#fight-club`, `#afk-roost`
+- See: `#the-compost-pile`, `#the-yard`, `#coq-a-doodle`, `#front-lawn-frisbee`, `#afk-roost`
 - React & Chat in: `#the-compost-pile`, `#the-yard`
 - Chat in threads in: `#initiations`, `#the-compost-pile`, `#the-yard`
 
 **Chooks**
 - All previous permissions, plus:
-- See: `#roles`, `#backyard-arnold-palmer`, `#poules-propound`, `#poules-polls`
+- See: `#roles`, `#backyard-arnold-palmer`, `#poules-propound`, `#poules-polls`, `#fight-club`
 - React in: `#roles`, `#initiations`, `#coq-a-doodle`, `#poules-propound`, `#poules-polls`
 - Create threads in public channels (as allowed by category)
 
